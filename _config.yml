@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-# title: Abbey Keck
+title: ․
 
 # Short description of your site
 description: Home of Abbey Keck
@@ -26,7 +26,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "http://1x1px.me/FFFFFF-0.png "
+# title-img: "http://1x1px.me/FFFFFF-0.png"
 
 
 # --- Footer options --- #
